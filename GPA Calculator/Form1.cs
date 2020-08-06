@@ -15,5 +15,7 @@ namespace GPA_Calculator
         {
             InitializeComponent();
         }
+
+        
     }
 }
